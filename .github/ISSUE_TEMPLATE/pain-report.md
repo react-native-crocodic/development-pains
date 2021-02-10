@@ -2,13 +2,13 @@
 name: Pain report
 about: Create a pain report to help us solve development cycle's pain for now and
   then
-title: "\U0001F61E My pain is "
+title: "\U0001F61E My pain is \"...\""
 labels: pain
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the pain**
 A clear and concise description of what the pain is.
 
 **To Reproduce**
