@@ -2,7 +2,7 @@
 name: Pain report
 about: Create a pain report to help us solve development cycle's pain for now and
   then
-title: "[Pain Report]"
+title: "\U0001F61E My pain is "
 labels: pain
 assignees: ''
 
