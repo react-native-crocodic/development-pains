@@ -4,7 +4,7 @@ Kumpulan referensi penyelesaian atas permasalahan development react-native Croco
 
 ## Categories
 
-- Code Typing
+- [Code Typing](#code-typing)
 
 ---
 
