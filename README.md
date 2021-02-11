@@ -4,11 +4,11 @@ Kumpulan referensi penyelesaian atas permasalahan development react-native Croco
 
 ## Categories
 
-- [📠 Code Typing](#code-typing)
+- [📠 Code Typing](#-code-typing)
 
 ---
 
 #### 📠 Code Typing
 
 
-- [Struktur kode untuk pembuatan basic component](https://github.com/react-native-crocodic/development-pains/issues/1#issuecomment-776825881)
+1. [Struktur kode untuk pembuatan basic component](https://github.com/react-native-crocodic/development-pains/issues/1#issuecomment-776825881)
