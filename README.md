@@ -9,6 +9,8 @@ Kumpulan referensi penyelesaian atas permasalahan development react-native Croco
 
 ---
 
+> Tips: Buka link dengan cara command + click untuk membuka isu di bawah di tab baru
+
 #### 🔧 Configuration
 
 1. [Init project react-native dengan set-up TypeScript](https://github.com/react-native-crocodic/development-pains/issues/2#issuecomment-777958460)
