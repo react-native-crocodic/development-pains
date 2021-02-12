@@ -5,7 +5,8 @@ Kumpulan referensi penyelesaian atas permasalahan development react-native Croco
 ## Categories
 
 1. [🔧 Configuration](#-configuration)
-2. [📠 Code Typing](#-code-typing)
+2. [📝 Documentation](#-documentation)
+3. [📠 Code Typing](#-code-typing)
 
 ---
 
