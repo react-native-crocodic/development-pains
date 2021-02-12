@@ -10,6 +10,7 @@ Kumpulan referensi penyelesaian atas permasalahan development react-native Croco
 ---
 
 > Tips: Buka link dengan cara command + click untuk membuka isu di bawah di tab baru
+> Lihat pada komentar dengan tag #ANSWER untuk melihat solusi yang tersedia
 
 #### 🔧 Configuration
 
